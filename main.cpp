@@ -4,6 +4,7 @@ int main()
 {
     
     cout<< "Seniv Roman\n";
+    cout<< "Hoshovska Diana\n";
     
     return 0;
 }
