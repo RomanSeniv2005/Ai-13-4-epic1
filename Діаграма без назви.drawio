@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T02:11:37.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ShK_AOhNpA3KxR1PMvj9" version="22.0.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-27T02:16:43.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="U_kyiCXN5hm3GLY7e8ZT" version="22.0.8" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1400" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -521,6 +521,53 @@
         </mxCell>
         <mxCell id="K45DUQFMTM_UySg_Fp04-15" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Завдання виконано&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jxqoFSbupREjMxfy3qvL" name="Сторінка-6">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YJWbHki1opHxd_Hatpko-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="100" as="targetPoint" />
+            <mxPoint x="220" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YJWbHki1opHxd_Hatpko-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJWbHki1opHxd_Hatpko-14" target="YJWbHki1opHxd_Hatpko-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YJWbHki1opHxd_Hatpko-4" value="Завантажити Draw.io" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YJWbHki1opHxd_Hatpko-7" value="Завдання: ознайомитися із Draw.io" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YJWbHki1opHxd_Hatpko-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJWbHki1opHxd_Hatpko-9" target="YJWbHki1opHxd_Hatpko-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YJWbHki1opHxd_Hatpko-9" value="Скласти блок-схеми для лабораторної роботи" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YJWbHki1opHxd_Hatpko-10" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Завдання виконано&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YJWbHki1opHxd_Hatpko-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJWbHki1opHxd_Hatpko-11" target="YJWbHki1opHxd_Hatpko-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YJWbHki1opHxd_Hatpko-11" value="Використати блок-системи у звіті" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YJWbHki1opHxd_Hatpko-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJWbHki1opHxd_Hatpko-4" target="YJWbHki1opHxd_Hatpko-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="140" as="sourcePoint" />
+            <mxPoint x="220" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YJWbHki1opHxd_Hatpko-14" value="Обрати зручне середовище для зберігання" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
