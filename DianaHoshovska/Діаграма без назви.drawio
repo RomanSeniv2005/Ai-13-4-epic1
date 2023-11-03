@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T05:54:47.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="K7OAqrdrYW5NwDmV5pM8" version="22.0.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-11-03T13:54:04.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="KnzaZ0aYjDTRlcW62TQ1" version="22.0.8" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -194,7 +194,7 @@
         <mxCell id="k7a0KTf7Arlo25S_35Ck-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k7a0KTf7Arlo25S_35Ck-6" target="k7a0KTf7Arlo25S_35Ck-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k7a0KTf7Arlo25S_35Ck-6" value="Введення основних змінних double a та float fac = 1.0" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="k7a0KTf7Arlo25S_35Ck-6" value="Введення основних змінних &lt;br&gt;double a = 0 та float fac = 1.0" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="200" width="238" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9IYdw0vcxWtPHNO-u6xu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k7a0KTf7Arlo25S_35Ck-8" target="9IYdw0vcxWtPHNO-u6xu-1">
@@ -203,14 +203,14 @@
         <mxCell id="k7a0KTf7Arlo25S_35Ck-8" value="Створення запиту змінної&amp;nbsp; float n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="304.5" y="280" width="209" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9IYdw0vcxWtPHNO-u6xu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k7a0KTf7Arlo25S_35Ck-10" target="9IYdw0vcxWtPHNO-u6xu-16">
+        <mxCell id="OVISFk08wpyimjTRftrX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k7a0KTf7Arlo25S_35Ck-10" target="OVISFk08wpyimjTRftrX-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k7a0KTf7Arlo25S_35Ck-10" value="Обчислення результату за поданою формулою&amp;nbsp;a = pow(10, n)/facn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="151" y="660" width="159" height="60" as="geometry" />
+        <mxCell id="k7a0KTf7Arlo25S_35Ck-10" value="Обчислення результату за поданою формулою&amp;nbsp;a = a+ pow(10, n)/facn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="151" y="730" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k7a0KTf7Arlo25S_35Ck-14" value="Фініш" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170.5" y="820" width="120" height="80" as="geometry" />
+          <mxGeometry x="404.5" y="910" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9IYdw0vcxWtPHNO-u6xu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9IYdw0vcxWtPHNO-u6xu-1" target="9IYdw0vcxWtPHNO-u6xu-3">
           <mxGeometry relative="1" as="geometry" />
@@ -225,9 +225,6 @@
           <mxGeometry x="349" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9IYdw0vcxWtPHNO-u6xu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9IYdw0vcxWtPHNO-u6xu-5" target="9IYdw0vcxWtPHNO-u6xu-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9IYdw0vcxWtPHNO-u6xu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9IYdw0vcxWtPHNO-u6xu-5" target="k7a0KTf7Arlo25S_35Ck-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9IYdw0vcxWtPHNO-u6xu-5" value="Чи справджується рівність i&amp;lt;n?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -247,6 +244,13 @@
         <mxCell id="9IYdw0vcxWtPHNO-u6xu-11" value="Ні" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="409" y="630" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OVISFk08wpyimjTRftrX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9IYdw0vcxWtPHNO-u6xu-15" target="OVISFk08wpyimjTRftrX-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="231" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9IYdw0vcxWtPHNO-u6xu-15" value="Так" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="550" width="60" height="30" as="geometry" />
         </mxCell>
@@ -254,7 +258,39 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9IYdw0vcxWtPHNO-u6xu-16" value="Вивід результату а" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="160.5" y="740" width="140" height="60" as="geometry" />
+          <mxGeometry x="394.5" y="830" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVISFk08wpyimjTRftrX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVISFk08wpyimjTRftrX-1" target="k7a0KTf7Arlo25S_35Ck-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVISFk08wpyimjTRftrX-1" value="Введення змінної i = 0 для циклу for" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="650" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVISFk08wpyimjTRftrX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OVISFk08wpyimjTRftrX-4" target="OVISFk08wpyimjTRftrX-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVISFk08wpyimjTRftrX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVISFk08wpyimjTRftrX-4" target="9IYdw0vcxWtPHNO-u6xu-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVISFk08wpyimjTRftrX-4" value="Чи справджується рівність i&amp;lt;n?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="810" width="251" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OVISFk08wpyimjTRftrX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVISFk08wpyimjTRftrX-5" target="k7a0KTf7Arlo25S_35Ck-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="970" />
+              <mxPoint x="80" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OVISFk08wpyimjTRftrX-5" value="Проведення операції ++i" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170.5" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVISFk08wpyimjTRftrX-10" value="Ні" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="223.5" y="910" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVISFk08wpyimjTRftrX-12" value="Так" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="344.5" y="830" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -761,7 +797,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7-RWbsqPARSAbqc5esZb" name="Сторінка-6">
-    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
